@@ -3,7 +3,7 @@ module github.com/raviqqe/muffet/v2
 go 1.12
 
 require (
-	github.com/andybalholm/brotli v1.0.4
+	github.com/andybalholm/brotli v1.0.5
 	github.com/bradleyjkemp/cupaloy v2.3.0+incompatible
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/kr/text v0.2.0 // indirect
@@ -14,9 +14,9 @@ require (
 	github.com/oxffaa/gopher-parse-sitemap v0.0.0-20191021113419-005d2eb1def4
 	github.com/stretchr/testify v1.7.0
 	github.com/temoto/robotstxt v1.1.2
-	github.com/valyala/fasthttp v1.31.0
+	github.com/valyala/fasthttp v1.45.0
 	github.com/yhat/scrape v0.0.0-20161128144610-24b7890b0945
 	go.uber.org/ratelimit v0.2.0
-	golang.org/x/net v0.0.0-20210510120150-4163338589ed
+	golang.org/x/net v0.8.0
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 )
